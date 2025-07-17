@@ -7,7 +7,7 @@ This project involves two separate analyses:
 Mobile Price Classification: Predicting mobile phone price categories using machine learning algorithms.
 Vehicle Accidents Time Series Prediction: Forecasting vehicle accidents based on historical data.
 
-#Datasets
+# Datasets
 1. Mobile Price Classification
 Source: Kaggle - Mobile Price Classification
 Features: Attributes of mobile phones (e.g., battery power, clock speed, etc.).
@@ -18,7 +18,7 @@ Features: Time series data of vehicle accidents.
 Target: Predict future accidents based on historical data.
 
 
-#Project Structure
+# Project Structure
 
 Mobile Price Classification
 Data Pre-processing
